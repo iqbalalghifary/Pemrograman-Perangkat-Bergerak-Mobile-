@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PemulaAndroidD</string>
+    <string name="namaklub">Nama Klub</string>
+    <string name="deskripsiklub">Deskripsi Klub</string>
+    <string name="Klasemen_Pertama_Liga_Satu">Klasemen Pertama Liga Satu</string>
+    <string name="ETS_Mobile">ETS Mobile</string>
+    <string name="Halaman_Utama">Halaman Utama</string>
+    <string name="Halaman_Detail">Halaman Detail</string>
+    <string name="Halaman_Tentang">Halaman Tentang</string>
+</resources>
